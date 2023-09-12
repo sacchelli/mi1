@@ -9,7 +9,7 @@
     
 [TD 1 - Intégrales généralisées](td1/td1.md)
 
-TD 2 - Intégrales multiples]
+TD 2 - Intégrales multiples
 
 TD 3 - Mesures
 
