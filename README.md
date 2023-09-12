@@ -1,7 +1,7 @@
 ![PNS](logo-pns.png)
 ## MAM3 - MI1
 # Mathématiques de l'ingénieur.e 1 
-# 2023-23
+# 2023-24
 
 [Discussions](https://github.com/pns-mam/mi1/discussions/1)
 
