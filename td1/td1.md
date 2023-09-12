@@ -6,7 +6,6 @@
 # TD 1 - Intégrales généralisées
 
 ## Exercice 1
-
 Étudier la nature des intégrales généralisées suivantes et en donner la valeur dans le cas où elles sont convergentes :
 ```math
   I_1 := \int_0^\infty e^{-t}\,\mathrm{d}t,\quad
@@ -15,7 +14,6 @@
 ```
 
 ## Exercice 2
-
 Étudier la convergence des intégrales généralisées suivantes : 
 ```math
   J_1 := \int_0^\infty \frac{1}{(1+t^2)\sqrt{t}}\,\mathrm{d}t,\quad
@@ -24,7 +22,6 @@
 ```
 
 ## Exercice 3
-
 On considère l'intégrale généralisée
 ```math
   K := \int_\mathbf{R} \frac{\sin t}{t}\,\mathrm{d}t.

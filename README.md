@@ -34,7 +34,6 @@ TD 10 - Transformée de Fourier (bis)
 [Exam CC 3 (2022-23)](exam-cc3-old/exam-cc3.pdf)
 
 # Bibliographie[^1]
- Bibliographie [^1]
 [Féjoz, J. Chapitres d'intégration et probabilités](https://www.ceremade.dauphine.fr/~fejoz/Integration/integration-probabilites.pdf)
 
 [Rudin, W. Analyse réelle et complexe](https://www.dunod.com/sciences-techniques/analyse-reelle-et-complexe-cours-et-exercices-0)
