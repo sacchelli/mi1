@@ -9,25 +9,25 @@
 
 Étudier la nature des intégrales généralisées suivantes et en donner la valeur dans le cas où elles sont convergentes :
 ```math
-  I_1 = \int_0^\infty e^{-t}\,\mathrm{d}t,\quad
-  I_2 = \int_0^1 \ln t\,\mathrm{d}t,\quad
-  I_3 = \int_2^\infty \frac{1}{t\ln t}\,\mathrm{d}t.
+  I_1 := \int_0^\infty e^{-t}\,\mathrm{d}t,\quad
+  I_2 := \int_0^1 \ln t\,\mathrm{d}t,\quad
+  I_3 := \int_2^\infty \frac{1}{t\ln t}\,\mathrm{d}t.
 ```
 
 ## Exercice 2
 
 Étudier la convergence des intégrales généralisées suivantes : 
 ```math
-  J_1 = \int_0^\infty \frac{1}{(1+t^2)\sqrt{t}}\,\mathrm{d}t,\quad
-  J_2 = \int_\mathbf{R} \frac{1}{\sqrt{t^2+1}}\,\mathrm{d}t,\quad
-  J_3 = \int_\mathbf{R} e^{-t^2}\,\mathrm{d}t.
+  J_1 := \int_0^\infty \frac{1}{(1+t^2)\sqrt{t}}\,\mathrm{d}t,\quad
+  J_2 := \int_\mathbf{R} \frac{1}{\sqrt{t^2+1}}\,\mathrm{d}t,\quad
+  J_3 := \int_\mathbf{R} e^{-t^2}\,\mathrm{d}t.
 ```
 
 ## Exercice 3
 
 On considère l'intégrale généralisée
 ```math
-  K = \int_\mathbf{R} \frac{\sin t}{t}\,\mathrm{d}t.
+  K := \int_\mathbf{R} \frac{\sin t}{t}\,\mathrm{d}t.
 ```
 
 ### 3.1
