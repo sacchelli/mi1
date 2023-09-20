@@ -15,7 +15,7 @@ où $\Omega := \lbrace (x,y) \in \mathbf{R}^2\ |\ 1 < x < 3,\ y > 2,\ x+y < 5 \r
 ## Exercice 2
 Calculer l'intégrale
 ```math
-  I := \int_\Omega \frac{z\mathrm{d}x\mathrm{d}y\mathrm{d}z}{\sqrt{x+y}}
+  I := \int_\Omega \frac{z\,\mathrm{d}x\mathrm{d}y\mathrm{d}z}{\sqrt{x+y}}
 ```
 où $\Omega := \lbrace (x,y,z) \in \mathbf{R}^3\ |\ x^2+y^2 < a^2,\ 0 < z < a \rbrace$ (avec $a > 0$ fixé).
 
@@ -29,12 +29,15 @@ Calculer l'intégrale
 x = r\cos\theta,\quad
 y = r\sin\theta,
 ```
-avec $r > 0$ et $\theta \in ]0,2\pi[$.
+avec $r > 0$ et $\theta \in ]0,2\pi[$. En déduire la valeur de
+```math
+  I := \int_{\mathbf{R}} e^{-x^2}\,\mathrm{d}x.
+```
 
 ## Exercice 4
 Calculer l'intégrale
 ```math
-  I := \int_\Omega \frac{\mathrm{d}x\mathrm{d}y\mathrm{d}z}{\sqrt{x^2x+y^2+z^2}}
+  I := \int_\Omega \frac{\mathrm{d}x\mathrm{d}y\mathrm{d}z}{\sqrt{x^2+y^2+z^2}}
 ```
 où $\Omega := \lbrace (x,y,z) \in \mathbf{R}^3\ |\ 1 < x^2+y^2+z^2 < 4 \rbrace$
 en utilisant les coordonnées sphériques :
