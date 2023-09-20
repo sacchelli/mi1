@@ -29,7 +29,7 @@ Calculer l'intégrale
 ```math
   I := \int_{\mathbf{R^2}} e^{-a(x^2+y^2)}\,\mathrm{d}x\mathrm{d}y
 ```
-(avec $a > 0$ fixé). En déduire la valeur de
+(avec $a > 0$ fixé) en utilisant les coordonnées polaires. En déduire la valeur de
 ```math
   I := \int_{\mathbf{R}} e^{-x^2}\,\mathrm{d}x.
 ```
