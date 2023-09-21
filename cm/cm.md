@@ -1,4 +1,4 @@
-![PNS](../logo-pns.png)
+![PNS](https://raw.githubusercontent.com/pns-mam/mi1/master/logo-pns.png)
 ## MAM3 - MI1
 # Mathématiques de l'ingénieur.e 1 
 # 2023-24
@@ -22,8 +22,8 @@ $\lim_n \sup f_n$
 - déf. mesure
 - ex. Dirac, comptage, Lebesgue ($\mu_L([a,b[)=b-a$)  
 - prop. : monotonie, $\mu(A \cup B)+\mu(A \cap B) = \mu(A)+\mu(B)$,
-$\mu(B\setminus A)=\mu(B)-\mu(A)$ si $\mu(A) \lt \infty$, continuité intérieure et extérieure
-- ex. $\mu_L(\mathbf{Q})=0$, $\mu_L(\mathbf{R}\setminus \mathbf{Q})=\infty$
+$\mu(B\setminus A)=\mu(B)-\mu(A)$ si $A \subset B$ et $\mu(A) \lt \infty$, continuité intérieure et extérieure
+- ex. $\mu_L(\mathbf{Q})=0$, $\mu_L(\mathbf{R}\setminus \mathbf{Q})=\infty$, $\mu_L([a,b])$
 - th. : complétion d'une tribu et prolongement de la mesure
 
 ## Ch. 2 - Intégration et convergence
