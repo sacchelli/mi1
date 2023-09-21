@@ -35,12 +35,14 @@ Montrer que $K$ est une intégrale convergente.
 
 ### 3.2
 Montrer également la convergence de
+
 $$
   \int_1^\infty \frac{\cos 2t}{t}\,\mathrm{d}t.
 $$
 
 ### 3.3
 En déduire que l'intégrale ci-dessous est divergente, et conclure :
+
 $$
   \int_0^\infty \left| \frac{\sin t}{t} \right|\,\mathrm{d}t.
 $$
