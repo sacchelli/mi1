@@ -24,7 +24,7 @@ Soit $(E,\mathscr{T})$ un espace mesurable, et soit $A$ une partie de $E$. On no
 Soit $(E,\mathscr{T})$ un espace mesurable, et soit $a$ un élément de $E$. On définit
 $\delta_a : \mathscr{T} \to \mathbf{R}$ par
 
-$$ \delta_a(A) = 1 \text{ si $A \ni a$, $0$ sinon.} $$
+$$ \delta_a(A) := 1 \text{ si $A \ni a$, $0$ sinon.} $$
 
 Montrer que $\delta_a$ définit une mesure sur
 $(E,\mathscr{T})$.
@@ -32,6 +32,6 @@ $(E,\mathscr{T})$.
 ## Exercice 4 (mesure de comptage)
 On définit $\mu_d : \mathscr{P}(\mathbf{N}) \to \mathbf{R}$ par
 
-$$ \mu_d(A) = \text{card}(A). $$
+$$ \mu_d(A) := \text{card}(A). $$
 
 Montrer que $\mu_d$ de définit une mesure sur $\mathbf{N}$ muni de sa tribu discrète.
