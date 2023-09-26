@@ -9,7 +9,7 @@
 Soit $E$ un ensemble non-vide.
 
 ### 1.1
-Soit $A \subset E$, non-vide et distincte de $E$. Déterminer $\mathscr{B}(\{A\})$.
+Soit $A \subset E$, non-vide et distincte de $E$. Déterminer $\mathscr{B}(\lbrace A \rbrace)$.
 
 ### 1.2
 Soit $\mathscr{P}:=\{A,B,C\}$ une partition de $E$. Déterminer $\mathscr{B}(\mathscr{P})$.
