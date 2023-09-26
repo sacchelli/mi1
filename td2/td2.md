@@ -24,8 +24,8 @@ $$
 où $\Omega := \lbrace (x,y,z) \in \mathbf{R}^3\ |\ x^2+y^2 < a^2,\ 0 < z < a \rbrace$ (avec $a > 0$ fixé) en utilisant les coordonnées polaires :
 
 $$
-x = r\cos\theta,\quad
-y = r\sin\theta,
+  x = r\cos\theta,\quad
+  y = r\sin\theta,
 $$
 
 avec $r > 0$ et $\theta \in ]0,2\pi[$. 
@@ -54,9 +54,9 @@ où $\Omega := \lbrace (x,y,z) \in \mathbf{R}^3\ |\ 1 < x^2+y^2+z^2 < 4 \rbrace$
 en utilisant les coordonnées sphériques :
 
 $$
-x = r\sin\varphi\cos\theta,\quad
-y = r\sin\varphi\sin\theta,\quad
-z = r\cos\varphi,
+  x = r\sin\varphi\cos\theta,\quad
+  y = r\sin\varphi\sin\theta,\quad
+  z = r\cos\varphi,
 $$
 
 avec $r > 0$, $\varphi \in ]0,\pi[$ et $\theta \in ]0,2\pi[$.
