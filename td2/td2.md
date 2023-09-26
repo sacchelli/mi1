@@ -34,13 +34,13 @@ avec $r > 0$ et $\theta \in ]0,2\pi[$.
 Calculer l'intégrale
 
 $$
-  I := \int_{\mathbf{R^2}} e^{-a(x^2+y^2)}\,\mathrm{d}x\mathrm{d}y
+  I := \int_{\mathbf{R^2}} e^{-a(x^2+y^2)}\ \mathrm{d}x\mathrm{d}y
 $$
 
 (avec $a > 0$ fixé) en utilisant les coordonnées polaires. En déduire la valeur de
 
 $$
-  I := \int_{\mathbf{R}} e^{-x^2}\,\mathrm{d}x.
+  I := \int_{\mathbf{R}} e^{-x^2}\ \mathrm{d}x.
 $$
 
 ## Exercice 4
