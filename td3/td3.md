@@ -12,7 +12,7 @@ Soit $E$ un ensemble non-vide.
 Soit $A \subset E$, non-vide et distincte de $E$. Déterminer $\mathscr{B}(\lbrace A \rbrace)$.
 
 ### 1.2
-Soit $\mathscr{P}:=\{A,B,C\}$ une partition de $E$. Déterminer $\mathscr{B}(\mathscr{P})$.
+Soit $\mathscr{P}:=\lbrace A,B,C \rbrace$ une partition de $E$. Déterminer $\mathscr{B}(\mathscr{P})$.
 
 ### 1.3
-Déterminer la tribu sur $\mathbf{R}$ engendrée par la famille $\{[0,1[,[1,2],]2,3]\}$.
+Déterminer la tribu sur $\mathbf{R}$ engendrée par la famille $\lbrace [0,1[,[1,2],]2,3] \rbrace$.
