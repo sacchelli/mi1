@@ -33,11 +33,11 @@ $$ \lim_{n \to \infty} \int_0^n (1-x/n)^n \cos x\ \mathrm{d}x \quad (n \geq 1). 
 $$ L_\alpha := \lim_{n \to \infty} \int_0^n (1-x/n)^n e^{\alpha x}\ \mathrm{d}x \quad (n \geq 1). $$
 
 ### 2.1
-Montrer que la limite existe pour $\alpha=1/2$ et déterminer $L_{1/2}$ à l'aide du théorème de convergence domineé.` 
+Montrer que la limite existe pour $\alpha=1/2$ et déterminer $L_{1/2}$ à l'aide du théorème de convergence domineé.
 
 ### 2.2
 On pose
 
-$$ h_n(x) := (1-x/n)^n e^{\alpha x}\Chi_{[0,n]}(x),\quad x \in \R_+ \quad (n \geq 1). $$
+$$ h_n(x) := (1-x/n)^n e^{\alpha x}\chi_{[0,n]}(x),\quad x \in \mathbf{R}_+ \quad (n \geq 1). $$
 
-En étudiant $\ln(h_{n+1}(x)/h_n(x)))$ pour $x \in [0,n[$, montrer que la suite $h_n$ est croissante, puis conclure quant à l'existence de $L_\alpha$ et sa valeur éventuelle à l'aide du théorème de convergence monotone.
+En étudiant $\ln(h_{n+1}(x)/h_n(x))$ pour $x \in [0,n[$, montrer que la suite $h_n$ est croissante, puis conclure quant à l'existence de $L_\alpha$ et sa valeur éventuelle à l'aide du théorème de convergence monotone.
