@@ -33,7 +33,7 @@ $\mu(B\setminus A)=\mu(B)-\mu(A)$ si $A \subset B$ et $\mu(A) \lt \infty$, conti
 - déf. intégrale d'une fonction étagée positive
 - déf. intégrale d'une fonction mesurable positive
 - rem. : approximation des fonctions positives mesurables par des fonctions étagées
-- prop. : $\int_X f\mathrm{d}\mu=0 \iff f=0$ $\mu$-p.p. quand $f$ est mesurable positive
+- prop. : si $f$ est mesurable et positive, $\int_X f\mathrm{d}\mu=0 \iff f=0$ $\mu$-p.p.
 
 ### 2. Cas des fonctions intégrables
 - déf. intégrabilité, et intégrale associée
