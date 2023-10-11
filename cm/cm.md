@@ -48,7 +48,7 @@ $\mu(B\setminus A)=\mu(B)-\mu(A)$ si $A \subset B$ et $\mu(A) \lt \infty$, conti
 - th. de continuité
 - th. de dérivabilité
 
-## Ch. 3 - Espaces $L^p$
+## Ch. 3 - Espaces L^p
 - prop. : inégalités de Hölder et Minkowski pour $1 < p < \infty$
 - déf. espaces $\mathscr{L}^p(X,\mathscr{B},\mu)$ et $L^p(X,\mathscr{B},\mu)$ pour $p \in [1,\infty]$
 - prop. : inégalité de Hölder (bis)
