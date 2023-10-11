@@ -33,7 +33,7 @@ $$ \lim_{n \to \infty} \int_0^n (1-x/n)^n \cos x\ \mathrm{d}x \quad (n \geq 1). 
 $$ L_\alpha := \lim_{n \to \infty} \int_0^n (1-x/n)^n e^{\alpha x}\ \mathrm{d}x \quad (n \geq 1). $$
 
 ### 2.1
-Montrer que la limite existe pour $\alpha=1/2$ et déterminer $L_{1/2}$ à l'aide du théorème de convergence domineé.
+Montrer que la limite existe pour $\alpha=1/2$ et déterminer $L_{1/2}$ à l'aide du théorème de convergence dominée.
 
 ### 2.2
 On pose
