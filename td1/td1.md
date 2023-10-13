@@ -3,9 +3,7 @@
 ## MAM3
 
 # Mathématiques de l'ingénieur.e 1
-
 # 2023-24
-
 # TD 1 - Intégrales généralisées
 
 ## Exercice 1
