@@ -17,6 +17,7 @@
 ([corrigé](td3/td3-corr.pdf))
 
 [TD 4 - Convergence](td4/td4.md)
+([corrigé](td4/td4-corr.pdf))
 
 TD 5 - Intégrales à paramètre
 
