@@ -77,7 +77,7 @@ $\hat{f}(\xi):=\int_{\mathbf{R}} f(x)e^{-2i\pi\xi x}\,\mathrm{d}x$
 ### 2. Convolution
 - th. déf. : convolution $L^1(\mathbf{R})$
 - prop. : commutativité
-- prop. : $\widehat{f*g}=\hat{f}*\hat{g}$
+- prop. : $\widehat{f * g}=\hat{f} * \hat{g}$
 - prop. : convolution $L^p(\mathbf{R}) * L^q(\mathbf{R})$ avec $1/p+1/q=1+1/r$
 
 ### 3. Transformée de Laplace
