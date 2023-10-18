@@ -19,7 +19,7 @@
 [TD 4 - Convergence](td4/td4.md)
 ([corrigé](td4/td4-corr.pdf))
 
-TD 5 - Intégrales à paramètre
+[TD 5 - Intégrales à paramètre](td5/td5.md)
 
 TD 6 - Espaces $`\mathrm{L}^p`$
 
