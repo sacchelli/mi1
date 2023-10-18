@@ -26,7 +26,7 @@ Appliquer itérativement le résultat de dérivabilité d'une intégrale à para
 ### 1.4
 Déduire de ce qui précède que
 
-$$ \int_0^\infty x^n e^{-x}\, \mathrm{d}x = n!,\quad n \in \mathbf{N}. $$
+$$ \int_0^\infty x^n e^{-x}\ \mathrm{d}x = n!,\quad n \in \mathbf{N}. $$
 
 ## Exercice 2
 Soit
