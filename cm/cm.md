@@ -58,7 +58,7 @@ $\mu(B\setminus A)=\mu(B)-\mu(A)$ si $A \subset B$ et $\mu(A) \lt \infty$, conti
 
 ## Ch. 4 - Intégration produit
 - déf. tribu produit
-- déf. prop. : mesure produit
+- déf. prop. : mesure produit (cas $\sigma$-fini)
 - th. de Tonelli
 - th. de Fubini
 - complétion d'une mesure produit
