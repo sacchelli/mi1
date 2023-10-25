@@ -28,10 +28,10 @@ $$ f(t) := \frac{1}{t(1+|\ln t|)^2},\quad t > 0. $$
 Montrer que $f$ appartient à $L^1([0,1])$.
 
 ### 2.2
-Montrer que $f$ n'appartient pas à $L^p([0,1])$ pour $p$ dans $]1,+\infty[$.
+Montrer que $f$ n'appartient pas à $L^p([0,1])$ pour $p$ dans $]1,+\infty]$.
 
 ### 2.3
-Montrer que $f$ appartient à $L^p([1,\infty])$ pour $p$ dans $[1,+\infty[$.
+Montrer que $f$ appartient à $L^p([1,\infty[)$ pour $p$ dans $[1,+\infty]$.
 
 ## Exercice 3
 
