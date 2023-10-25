@@ -34,10 +34,4 @@ Montrer que $f$ n'appartient pas à $L^p([0,1])$ pour $p$ dans $]1,+\infty]$.
 Montrer que $f$ appartient à $L^p([1,\infty[)$ pour $p$ dans $[1,+\infty]$.
 
 ## Exercice 3
-
-### 3.1
 On se place sur un espace mesuré $(X,\mathcal{B},\mu)$, avec $\mu(X) < \infty$. Soient $p$ et $q$ dans $[1,\infty]$, avec $p \leq q$. Montrer que $L^q(X,\mathscr{B},\mu) \subset L^p(X,\mathscr{B},\mu)$, avec inclusion stricte.
-
-### 3.2
-À l'aide de contrexemples, montrer que $L^1(\mathbf{R}) \not\subset L^2(\mathbf{R})$, et que
-$L^2(\mathbf{R}) \not\subset L^1(\mathbf{R})$.
