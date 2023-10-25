@@ -13,7 +13,7 @@
 
 $$ f(t) := \frac{\sin t}{t},\quad t \neq 0, $$
 
-$$ g(t) := \frac{1}{\sqrt{t}(1+t^2)} \Chi_{]0,+\infty[}(t),\quad t \neq 0, $$
+$$ g(t) := \frac{1}{\sqrt{t}(1+t^2)} \chi_{]0,+\infty[}(t),\quad t \neq 0, $$
 
 $$ h(t) := \frac{1}{\sqrt{1+t^2}},\quad t \in \mathbb{R}, $$
 
@@ -22,7 +22,7 @@ $$ k(t) := e^{-t^2},\quad t \in \mathbb{R}. $$
 ## Exercice 2
 Soit
 
-$$ f(t) := \frac{1}{t(1+|\ln t)^2},\quad t > 0. $$
+$$ f(t) := \frac{1}{t(1+|\ln t|)^2},\quad t > 0. $$
 
 ### 2.1
 Montrer que $f$ appartient à $L^1([0,1])$.
@@ -36,9 +36,7 @@ Montrer que $f$ appartient à $L^p([1,\infty])$ pour $p$ dans $[1,+\infty[$.
 ## Exercice 3
 
 ### 3.1
-On se place sur un espace mesuré $(X,\mathcal{B},\mu)$, avec $\mu(X) < \infty$. Soient $p$ et $q$ dans
-$[1,\infty]$, avec$p \leq q$. Montrer que 
-$L^q(X,\mathscr{B},\mu) \subset L^p(X,\mathscr{B},\mu)$.
+On se place sur un espace mesuré $(X,\mathcal{B},\mu)$, avec $\mu(X) < \infty$. Soient $p$ et $q$ dans $[1,\infty]$, avec $p \leq q$. Montrer que $L^q(X,\mathscr{B},\mu) \subset L^p(X,\mathscr{B},\mu)$, avec inclusion stricte.
 
 ### 3.2
 À l'aide de contrexemples, montrer que $L^1(\mathbf{R}) \not\subset L^2(\mathbf{R})$, et que
