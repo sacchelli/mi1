@@ -21,7 +21,7 @@
 
 [TD 5 - Intégrales à paramètre](td5/td5.md)
 
-TD 6 - Espaces $`\mathrm{L}^p`$
+[TD 6 - Espaces $L^p$](td6/td6.md)
 
 TD 7 - Transformée de Fourier
 
