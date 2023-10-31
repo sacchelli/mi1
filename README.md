@@ -20,8 +20,10 @@
 ([corrigé](td4/td4-corr.pdf))
 
 [TD 5 - Intégrales à paramètre](td5/td5.md)
+([corrigé](td5/td5-corr.pdf))
 
 [TD 6 - Espaces $L^p$](td6/td6.md)
+([corrigé](td6/td6-corr.pdf))
 
 TD 7 - Transformée de Fourier
 
