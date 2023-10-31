@@ -29,9 +29,9 @@ TD 7 - Transformée de Fourier
 
 TD 8 - Convolution
 
-TD 9 - Transformée de Laplace
+TD 9 - Équation de la chaleur
 
-TD 10 - Transformée de Fourier (bis)
+TD 10 - Transformée de Laplace
 
 [Exam CC 1 (2022-23)](exam-cc1-old/exam-cc1.pdf)
 
