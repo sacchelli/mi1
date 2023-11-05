@@ -53,7 +53,7 @@ où $D := \lbrace (x,y,z) \in \mathbf{R}^3\ |\ 1 \leq x^2+y^2 \leq 4,\ 0 \leq z 
 
 $$ \begin{eqnarray*}
   \int_D \frac{z\ \mathrm{d}x\mathrm{d}y\mathrm{d}z}{\sqrt{x^2+y^2}}
-  &=& \int_{[1,2] \times [0,2\pi] \times [0,1]} \frac{zr\ \mathrm{d}r\mathrm{d}\theta\mathrm{d}z}{r},\\
+  &=& \int_{[1,2] \times [0,2\pi] \times [0,1]} \frac{z\ r\mathrm{d}r\mathrm{d}\theta\mathrm{d}z}{r},\\
   &=& 2\pi \int_0^1 z\ \mathrm{d}z,\\
   &=& \pi.
 \end{eqnarray*} $$
@@ -70,8 +70,9 @@ $$ \tilde{\mathscr{A}} := \lbrace [0,1[, [1,2], ]2, 3] \rbrace $$
 
 sont égales.
 
-**Réponse.** On a $\mathscr{A} \subset \tilde{\mathscr{A}}$, donc $\mathscr{B}(\mathscr{A}) \subset \mathscr{B}(\tilde{\mathscr{A}})$. Réciproquement, $[1,2] = [0,2] \cap [1,3]$ doit appartenir à $\mathscr{B}(\mathscr{A})$, de même que $[0,1[ = [0,2] \backslash [1,2]$ et $]2,3] = [1,3] \backslash [1,2]$; donc $\tilde{\mathscr{A}} \subset \mathscr{B}(\mathscr{A})$,
- donc $\mathscr{B}(\tilde{\mathscr{A}}) \subset \mathscr{B}(\mathscr{A})$.
+**Réponse.** On a $\mathscr{A} \subset \tilde{\mathscr{A}}$,
+donc $\mathscr{B}(\mathscr{A}) \subset \mathscr{B}(\tilde{\mathscr{A}})$.
+Réciproquement, $[1,2] = [0,2] \cap [1,3]$ doit appartenir à $\mathscr{B}(\mathscr{A})$, de même que $[0,1[ = [0,2] \backslash [1,2]$ et $]2,3] = [1,3] \backslash [1,2]$; donc $\tilde{\mathscr{A}} \subset \mathscr{B}(\mathscr{A})$, et $\mathscr{B}(\tilde{\mathscr{A}}) \subset \mathscr{B}(\mathscr{A})$.
 
 ## 4.2
 Donner, sans le justifier, le cardinal de la tribu $\mathscr{B}(\mathscr{A})$ engendrée par $\mathscr{A}$.
