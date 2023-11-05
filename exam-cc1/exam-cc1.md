@@ -51,12 +51,12 @@ où $D := \lbrace (x,y,z) \in \mathbf{R}^3\ |\ 1 \leq x^2+y^2 \leq 4,\ 0 \leq z 
 
 **Réponse.** On a $|\det \varphi'(r,\theta,z)| = r$, ce qui permet d'appliquer la formule de changement de variable, puis Fubini : 
 
-\begin{eqnarray*}
+$$ \begin{eqnarray*}
   \int_D \frac{z\ \mathrm{d}x\mathrm{d}y\mathrm{d}z}{\sqrt{x^2+y^2}}
   &=& \int_{[1,2] \times [0,2\pi] \times [0,1]} \frac{zr\ \mathrm{d}r\mathrm{d}\theta\mathrm{d}z}{r},\\
   &=& 2\pi \int_0^1 z\ \mathrm{d}z,\\
   &=& \pi.
-\end{eqnarray*}
+\end{eqnarray*} $$
 
 # Exercice 4 (6 points)
 On considère la famille de parties de $\mathbf{R}$ suivante :
@@ -83,7 +83,7 @@ Soit $(f_n)_n$ une suite d'applications de $X$ dans $\overline{\mathbf{R}}$. Soi
 
 $$ (\inf_n f_n)^{-1}([-\infty,a[). $$
 
-**Réponse.** Pour $x \in X$, comme $\inf_n f_n(x) < a$ si et seulement s'il existe $n \in \mathbf{N}$ tel que $f_n(x) < a$ (sinon $a serait un minorant de l'ensemble $\lbrace f_n(x),\ x \in X \rbrace$), on a 
+**Réponse.** Pour $x \in X$, comme $\inf_n f_n(x) < a$ si et seulement s'il existe $n \in \mathbf{N}$ tel que $f_n(x) < a$ (sinon $a$ serait un minorant de l'ensemble $\lbrace f_n(x),\ x \in X \rbrace$, inférieur ou égal au plus grand des minorants), on a 
 
 $$ (\inf_n f_n)^{-1}([-\infty,a[) = \bigcup_{n \in \mathbf{N}} f_n^{-1}([-\infty,a[). $$
 
