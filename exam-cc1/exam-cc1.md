@@ -70,21 +70,24 @@ $$ \tilde{\mathscr{A}} := \lbrace [0,1[, [1,2], ]2, 3] \rbrace $$
 
 sont égales.
 
-**Réponse.** On a $\mathscr{A} \subset \tilde{\mathscr{A}}$, donc $\mathscr{B}(\mathscr{A}) \subset \mathscr{B}(\tilde{\mathscr{A}})$. Réciproquement, on a $\tilde{\mathscr{A}} \subset \mathscr{A} \cup \lbrace \emptyset \rbrace$, donc $\mathscr{B}(\tilde{\mathscr{A}}) \subset \mathscr{B}(\mathscr{A} \cup \lbrace \emptyset \rbrace) = \mathscr{B}(\mathscr{A})$.
+**Réponse.** On a $\mathscr{A} \subset \tilde{\mathscr{A}}$, donc $\mathscr{B}(\mathscr{A}) \subset \mathscr{B}(\tilde{\mathscr{A}})$. Réciproquement, $[1,2] = [0,2] \cap [1,3]$ doit appartenir à $\mathscr{B}(\mathscr{A})$, donc $\tilde{\mathscr{A}} \subset \mathscr{B}(\mathscr{A})$,
+ donc $\mathscr{B}(\tilde{\mathscr{A}}) \subset \mathscr{B}(\mathscr{A})$.
 
 ## 4.2
 Donner, sans le justifier, le cardinal de la tribu $\mathscr{B}(\mathscr{A})$ engendrée par $\mathscr{A}$.
 
-**Réponse.**
+**Réponse.** Le même raisonnement montre que la tribu engendrée par $\tilde{\mathscr{A}} \cup \complement_{\mathbf{R}} [0,3]$ est encore identique. S'agissant d'une tribu engendrée par une partition (de $\mathbf{R}$) en $4$ parties, elle contient $2^4 = 16$ parties.
 
 ## 4.3
 Soit $(f_n)_n$ une suite d'applications de $X$ dans $\overline{\mathbf{R}}$. Soit $a$ un réel, exprimer
 
 $$ (\inf_n f_n)^{-1}([-\infty,a[). $$
 
-**Réponse.**
+**Réponse.** Pour $x \in X$, comme $\inf_n f_n(x) < a$ si et seulement s'il existe $n \in \mathbf{N}$ tel que $f_n(x) < a$ (sinon $a serait un minorant de l'ensemble $\lbrace f_n(x),\ x \in X \rbrace$), on a 
+
+$$ (\inf_n f_n)^{-1}([-\infty,a[) = \bigcup_{n \in \mathbf{N}} f_n^{-1}([-\infty,a[). $$
 
 ## 4.4
 On munit $X$ d'une tribu $\mathscr{T}$, on munit $\overline{\mathbf{R}}$ de sa tribu borélienne $\mathscr{B}_{\overline{\mathbf{R}}}$, et on suppose les $f_n$ mesurables. Déduire de la question précédente que la fonction $\inf_n f_n$ est également mesurable.
 
-**Réponse.**
+**Réponse.** Comme l'ensemble de parties $\lbrace [-\infty,a[, a \in \mathbf{R} \rbrace$ engendre la tribu borélienne de $\overline{\mathbf{R}}$, il suffit de montrer que l'image réciproque de chacun de ces ensembles est mesurable. Or, d'après la question précédente, cette image réciproque s'écrit comme réunion dénombrable d'ensembles mesurables (chaque $f_n$ étant supposée mesurable), donc est mesurable. 
